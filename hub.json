@@ -1,0 +1,32 @@
+{
+  "arxiv_query": "cat:cs.CR AND (abs:\"large language model\" OR abs:\"machine learning\" OR abs:\"deep learning\" OR abs:agent)",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "DEF",
+      "queries": [
+        "llm security operations",
+        "ai threat detection",
+        "machine learning intrusion detection"
+      ]
+    },
+    {
+      "key": "SAFE",
+      "queries": [
+        "llm red teaming",
+        "prompt injection",
+        "llm guardrails"
+      ]
+    },
+    {
+      "key": "PLAT",
+      "queries": [
+        "ai security scanner",
+        "adversarial robustness",
+        "llm vulnerability scanner"
+      ]
+    }
+  ]
+}

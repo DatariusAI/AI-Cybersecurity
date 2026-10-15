@@ -4,7 +4,7 @@ A free, self-updating hub on **both sides of AI security**: using AI to defend s
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-14 04:38 UTC_
+_Last refreshed: 2026-10-15 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -24,14 +24,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-13 | [Towards Safe Autonomy for Computer Use](https://arxiv.org/abs/2610.18508) | Dominik Seip et al. |
-| 2026-10-13 | [Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents](https://arxiv.org/abs/2610.18457) | Kristoffer Hempel et al. |
-| 2026-10-13 | [FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation](https://arxiv.org/abs/2610.18430) | Xi Chen et al. |
-| 2026-10-13 | [Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees](https://arxiv.org/abs/2610.18326) | Wenbin Hu et al. |
-| 2026-10-13 | [BALLAST: Physics-Aware Moving Target Defense for Industrial Control Systems Using a Digital Twin Safety Oracle](https://arxiv.org/abs/2610.18311) | Oscar Mogollon-Gutierrez et al. |
-| 2026-10-13 | [Encrypted Skills Can Become New Security Exploits If AI Agents Know How to Decipher](https://arxiv.org/abs/2610.18262) | Yan-Lun Chen et al. |
-| 2026-10-13 | [Holding Agents Accountable with Verifiable Agent Insurance](https://arxiv.org/abs/2610.18230) | Cheng Hua et al. |
-| 2026-10-13 | [Cost-Efficient Privacy Enforcement for Email-Generating LLM Agents under Strategic Information Requests](https://arxiv.org/abs/2610.18007) | Qikun Cai et al. |
+| 2026-10-14 | [From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)](https://arxiv.org/abs/2610.20437) | Alicia Colmenero-Fernández |
+| 2026-10-14 | [Towards Efficient Threat Intelligence Instruction Tuning via Quality-Aware and Optimal Transport-Guided Data Selection](https://arxiv.org/abs/2610.20284) | Jiyu Tian et al. |
+| 2026-10-14 | [P2Patch: Exploit-Guided Vulnerability Repair](https://arxiv.org/abs/2610.20245) | Mohsen Iranmanesh et al. |
+| 2026-10-14 | [GeoCloak: An Agentic Framework for Semantics-Preserving Geolocation Privacy via Peripheral Clue Manipulation](https://arxiv.org/abs/2610.20055) | Yixin Wu et al. |
+| 2026-10-14 | [CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection](https://arxiv.org/abs/2610.20049) | Qichen Zhao et al. |
+| 2026-10-14 | [DarKnight: Retrieval-Guided Agentic Framework for Breaking Dark Web CAPTCHA Gates](https://arxiv.org/abs/2610.19830) | Binghui Wu et al. |
+| 2026-10-14 | [Adaptive and Proximal Federated Optimization for Transferable Network Intrusion Detection](https://arxiv.org/abs/2610.19808) | Rezwan Islam Salvi et al. |
+| 2026-10-14 | [A Graph-Based Analysis of Comparability, Scale, and Attribution in Private Transformer Inference](https://arxiv.org/abs/2610.19607) | Souvik Das et al. |
 <!-- ARXIV:END -->
 
 ## 🗺️ Frameworks everyone uses
@@ -67,12 +67,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DEF:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for  | Python | 2,405 | 2026-10-12 |
-| [uber/ADR](https://github.com/uber/ADR) | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. | Python | 2,027 | 2026-10-13 |
-| [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) | NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security  | Rust | 1,444 | 2026-10-11 |
-| [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform) | Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC) | Python | 1,207 | 2026-09-29 |
+| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for  | Python | 2,410 | 2026-10-14 |
+| [uber/ADR](https://github.com/uber/ADR) | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. | Python | 2,047 | 2026-10-14 |
+| [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) | NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security  | Rust | 1,446 | 2026-10-14 |
+| [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform) | Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC) | Python | 1,208 | 2026-09-29 |
 | [Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning) | Code for IDS-ML: intrusion detection system development using machine learning algorithms (Decision tree, random forest, extra trees, XGBoos | Jupyter Notebook | 601 | 2026-04-01 |
-| [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals — covering offensive security, defensive operations, reverse engine | Python | 474 | 2026-09-07 |
+| [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals — covering offensive security, defensive operations, reverse engine | Python | 478 | 2026-09-07 |
 <!-- DEF:END -->
 
 ## 🧨 Security of AI (red teaming, prompt injection, guardrails)
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- SAFE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, l | Python | 61,191 | 2026-10-14 |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepS | TypeScript | 25,983 | 2026-10-14 |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and s | Python | 20,146 | 2026-10-14 |
-| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API. | TypeScript | 13,181 | 2026-05-25 |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, l | Python | 61,276 | 2026-10-15 |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepS | TypeScript | 26,001 | 2026-10-15 |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and s | Python | 20,223 | 2026-10-14 |
+| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API. | TypeScript | 13,190 | 2026-05-25 |
 | [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. | HTML | 10,809 | 2026-10-13 |
-| [BoundaryML/baml](https://github.com/BoundaryML/baml) | The programming language for agents | Rust | 9,402 | 2026-10-14 |
+| [BoundaryML/baml](https://github.com/BoundaryML/baml) | The programming language for agents | Rust | 9,408 | 2026-10-15 |
 <!-- SAFE:END -->
 
 ## 🧰 Open-source AI security platforms and tools
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- PLAT:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and s | Python | 20,146 | 2026-10-14 |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | Python | 9,563 | 2026-10-10 |
-| [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) | The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵 |  | 9,100 | 2026-09-28 |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluatio | Python | 6,857 | 2026-10-14 |
-| [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Bl | Python | 6,272 | 2026-10-08 |
-| [snyk/agent-scan](https://github.com/snyk/agent-scan) | Security scanner for AI agents, MCP servers and agent skills. | Python | 3,137 | 2026-10-13 |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and s | Python | 20,223 | 2026-10-14 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | Python | 9,575 | 2026-10-14 |
+| [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) | The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵 |  | 9,104 | 2026-10-14 |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluatio | Python | 6,872 | 2026-10-15 |
+| [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Bl | Python | 6,275 | 2026-10-08 |
+| [snyk/agent-scan](https://github.com/snyk/agent-scan) | Security scanner for AI agents, MCP servers and agent skills. | Python | 3,139 | 2026-10-14 |
 <!-- PLAT:END -->
 
 ## 📚 Free learning resources
